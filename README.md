@@ -1,6 +1,17 @@
 - 👋 Hi, I’m @LaconicsCompany
 - 📫 How to reach me contact@laconics.net
 
+
+
+
+1. LACONICS WEBSITE
+2. SOCIAL MEDIA
+3. TRACKING MANAGEMENT SYSTEM 
+4. INVENTORY MANAGEMENT SYSTEM 
+5. INFORMATIVE WEBSITES
+6. IN COLLABORATION WITH PARTNERS
+7. ONGOING PROJECTS
+
 <!---
 
 --->
